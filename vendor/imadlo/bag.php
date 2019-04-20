@@ -10,6 +10,7 @@ class Bag {
     public $request;
 
     public $homepageAction;
+    public $articleAction;
 
     public function __construct()
     {
@@ -21,5 +22,6 @@ class Bag {
         $this->app = new App($this);
 
         $this->homepageAction = new HomepageAction($this);
+        $this->articleAction = new ArticleAction($this);
     }
 }

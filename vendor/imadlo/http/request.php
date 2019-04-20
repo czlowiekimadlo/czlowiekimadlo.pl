@@ -3,6 +3,8 @@
 class Request
 {
     public $uri;
+    public $route;
+    public $action;
 
     public function __construct()
     {
