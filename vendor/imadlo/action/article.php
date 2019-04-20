@@ -8,4 +8,13 @@ class ArticleAction
     {
         $this->bag = $bag;
     }
+
+    public function execute()
+    {
+        $content = $this->bag->template->render("base.html", [
+            "CONTENT" => $this->bag->request->route,
+        ]);
+
+        return new Response($content);
+    }
 }

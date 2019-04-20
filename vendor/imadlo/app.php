@@ -12,6 +12,7 @@ class App {
     public function handleRequest()
     {
         $this->bag->router->routeRequest($this->bag->request);
-        var_dump($this->bag->request);
+
+        return $this->bag->request->action->execute();
     }
 }

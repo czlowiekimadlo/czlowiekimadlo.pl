@@ -8,4 +8,13 @@ class HomepageAction
     {
         $this->bag = $bag;
     }
+
+    public function execute()
+    {
+        $content = $this->bag->template->render("base.html", [
+            "CONTENT" => "Sempai!",
+        ]);
+
+        return new Response($content);
+    }
 }
