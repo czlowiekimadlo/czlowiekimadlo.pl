@@ -12,6 +12,7 @@ class HomepageAction
     public function execute()
     {
         $content = $this->bag->template->render("base.html", [
+            "TITLE" => "Człowiekimadło",
             "CONTENT" => "Sempai!",
         ]);
 
