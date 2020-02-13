@@ -1,19 +1,16 @@
 <?php
 
-class HomepageAction
+class HomepageAction extends abstractAction
 {
-    private $bag;
-
-    public function __construct($bag)
-    {
-        $this->bag = $bag;
-    }
-
     public function execute()
     {
-        $content = $this->bag->template->render("base.html", [
+        $headers = $this->render("homepage/headers.fragment");
+        $body = $this->render("homepage/body.fragment");
+
+        $content = $this->render("base.html", [
             "TITLE" => "Człowiekimadło",
-            "CONTENT" => "Sempai!",
+            "HEADERS" => $headers,
+            "CONTENT" => $body,
         ]);
 
         return new Response($content);

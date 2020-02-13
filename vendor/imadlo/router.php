@@ -23,7 +23,7 @@ class Router {
 
     private function pickAction($route)
     {
-        if ($route === "/") {
+        if ($route === "/" || $route === "") {
             return $this->bag->homepageAction;
         }
 
