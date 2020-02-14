@@ -9,6 +9,7 @@ class Bag {
     public $app;
     public $request;
 
+    public $errorAction;
     public $homepageAction;
     public $articleAction;
 
@@ -21,6 +22,7 @@ class Bag {
         $this->template = new Template();
         $this->app = new App($this);
 
+        $this->errorAction = new ErrorAction($this);
         $this->homepageAction = new HomepageAction($this);
         $this->articleAction = new ArticleAction($this);
     }

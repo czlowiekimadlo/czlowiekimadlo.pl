@@ -23,6 +23,10 @@ class Content {
     {
         $fileContent = $this->getGeneralFileBySlug($slug);
 
+        if ($fileContent === false) {
+            return null;
+        }
+
         return [
             self::TITLE => strstr($fileContent, "\n", true),
             self::CONTENT => strstr($fileContent, "\n"),

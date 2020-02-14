@@ -29,15 +29,13 @@ abstract class abstractAction
         return preg_replace("/[^a-z_0-9]/", "", $route);
     }
 
+    protected function generateError($httpCode)
+    {
+        return $this->bag->errorAction->executeCode($httpCode);
+    }
+
     protected function generate404()
     {
-        $article = $this->bag->content->getGeneralContent("404");
-
-        $content = $this->render("base.html", [
-            "TITLE" => $article[Content::TITLE],
-            "CONTENT" => $article[Content::CONTENT],
-        ]);
-
-        return new Response($content, 404);
+        return $this->bag->errorAction->executeCode(404);
     }
 }
