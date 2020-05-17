@@ -34,6 +34,14 @@ abstract class abstractAction
         return $this->bag->errorAction->executeCode($httpCode);
     }
 
+    protected function getBaseBlocks()
+    {
+        return [
+            "MENU" => $this->render("shared/menu.fragment"),
+            "FOOTER" => $this->render("shared/footer.fragment"),
+        ];
+    }
+
     protected function generate404()
     {
         return $this->bag->errorAction->executeCode(404);

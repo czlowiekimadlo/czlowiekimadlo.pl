@@ -10,19 +10,16 @@ class ArticleAction extends abstractAction
         if ($article === null) {
             return $this->generate404();
         }
-
         $formattedContent = $this->parse($article[Content::CONTENT]);
 
-        $headers = $this->render("article/headers.fragment");
-        $body = $this->render("article/body.fragment", [
+        $blocks = $this->getBaseBlocks();
+        $blocks["TITLE"] = $article[Content::TITLE];
+        $blocks["HEADERS"] = $this->render("article/headers.fragment");
+        $blocks["CONTENT"] = $this->render("article/body.fragment", [
             "CONTENT" => $formattedContent,
         ]);
 
-        $content = $this->render("base.html", [
-            "TITLE" => $article[Content::TITLE],
-            "HEADERS" => $headers,
-            "CONTENT" => $body,
-        ]);
+        $content = $this->render("base.html", $blocks);
 
         return new Response($content);
     }

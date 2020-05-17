@@ -4,14 +4,12 @@ class HomepageAction extends abstractAction
 {
     public function execute()
     {
-        $headers = $this->render("homepage/headers.fragment");
-        $body = $this->render("homepage/body.fragment");
+        $blocks = $this->getBaseBlocks();
+        $blocks["TITLE"] = "Człowiekimadło";
+        $blocks["HEADERS"] = $this->render("homepage/headers.fragment");
+        $blocks["CONTENT"] = $this->render("homepage/body.fragment");
 
-        $content = $this->render("base.html", [
-            "TITLE" => "Człowiekimadło",
-            "HEADERS" => $headers,
-            "CONTENT" => $body,
-        ]);
+        $content = $this->render("base.html", $blocks);
 
         return new Response($content);
     }
