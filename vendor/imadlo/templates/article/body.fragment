@@ -1,3 +1,5 @@
 <div id="article_body">
+    <div id="column_container">
 {{CONTENT}}
+    </div>
 </div>

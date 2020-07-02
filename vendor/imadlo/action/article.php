@@ -16,6 +16,7 @@ class ArticleAction extends abstractAction
         $blocks["TITLE"] = $article[Content::TITLE];
         $blocks["HEADERS"] = $this->render("article/headers.fragment");
         $blocks["CONTENT"] = $this->render("article/body.fragment", [
+            "TITLE" => $article[Content::TITLE],
             "CONTENT" => $formattedContent,
         ]);
 

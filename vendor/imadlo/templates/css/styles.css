@@ -49,6 +49,7 @@ body {
 #menu a, #buttons a {
     color: #99aab5;
     margin: 0 1em;
+    font-size: 1.3em;
     text-decoration: none;
 }
 #menu a:hover {
