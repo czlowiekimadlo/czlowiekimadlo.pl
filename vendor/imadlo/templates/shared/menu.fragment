@@ -2,7 +2,7 @@
     <div id="menu">
         <span><a href="/">czlowiekimadlo</a></span>
         <a href="https://www.twitch.tv/czlowiekimadlo">live</a>
-        <a href="/test">Blog</a>
+        <a href="/blog">Blog</a>
         <a href="/setup">setup</a>
     </div>
     <div id="buttons">
