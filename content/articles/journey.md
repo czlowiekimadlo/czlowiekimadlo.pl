@@ -1,7 +1,7 @@
 Game experience: Journey
 
 # Game experience: Journey
-*05/07/2020*
+*07/07/2020*
 
 ![Player character and a companion standing on a sandy dune, looking at a tall mountain on a horizon](/assets/images/articles/journey/journey.jpg "Companions")
 
@@ -37,6 +37,6 @@ Some white-robed figures gave me strength to carry on, but my companion wasn't t
 
 After the credits, the game showed me a list of players I met. I was pretty sure there would be two, but it actually listed four.
 
-It was very nice experience. It showed me, that people on the internet can be kind. At least, when you can't talk to each other.
+It was a very nice experience. It showed me, that people on the internet can be kind. At least, when you can't talk to each other.
 
 In the end, it was all good. I can really recommend this game as a one evening thing. It is worth it.

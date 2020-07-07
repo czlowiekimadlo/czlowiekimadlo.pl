@@ -2,4 +2,4 @@ Blog
 
 # 2020
 ## July
-5. [Game experience: Journey](/journey)
+7. [Game experience: Journey](/journey)
