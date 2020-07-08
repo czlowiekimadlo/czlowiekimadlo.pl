@@ -19,6 +19,9 @@ h1, h2, h3 {
     color: #7289da;
 }
 
+#article_body p {
+    font-family: "DejaVuSerifV1", serif;
+}
 
 #article_body img {
     margin: 15px 0px;
