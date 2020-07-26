@@ -1,5 +1,5 @@
 <div id="article_body">
-    <div id="column_container">
+    <div id="column_container" class="moz-reader-content">
 {{CONTENT}}
     </div>
 </div>
