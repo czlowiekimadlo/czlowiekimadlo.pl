@@ -3,6 +3,6 @@ The Lost Joy Of Gaming
 # The Lost Joy Of Gaming
 *26/07/2020*
 
-![Player character and a companion standing on a sandy dune, looking at a tall mountain on a horizon](/assets/images/articles/journey/journey.jpg "Companions")
+![Aerial view of a simple city with Frontier game logo at the bottom](/assets/images/articles/joy/frontier-elite-2.png "Elite 2 Frontier")
 
 Lorem ipsum.

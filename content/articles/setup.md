@@ -8,7 +8,7 @@ Streaming Setup
 - **RAM:** G.SKILL 32GB (2x16GB) 3600MHz CL16 TridentZ RGB Neo
 - **GPU:** Zotac GeForce GTX1080 Ti Mini
 - **MB:** Gigabyte Z390 AORUS MASTER
-- **SCR:** DELL U2414H
+- **SCR:** LG 27GL850, DELL U2414H
 - **SSD:** Samsung 512GB+1TB M.2 NVME 970 Pro
 - **VR:** Oculus Rift S
 - **PWR:** be quiet! Straight Power 11 850W 80 Plus Gold
