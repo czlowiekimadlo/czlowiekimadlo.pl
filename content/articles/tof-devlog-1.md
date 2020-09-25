@@ -55,8 +55,6 @@ This looks more like it, though green is a bit strong. It will stay like that fo
 
 ![Progress image](/assets/images/articles/tof-devlog-1/progress_003.png "Progress image")
 
-I have added an HDR skybox instead of procedural one, it helped balance the light colour a bit.
-
 ![Progress image](/assets/images/articles/tof-devlog-1/progress_004.png "Progress image")
 
 Then w84death gave me a good hint, that I can make the tank all metalic and shiny, so I did!
@@ -66,6 +64,8 @@ Then w84death gave me a good hint, that I can make the tank all metalic and shin
 It looks decently good like that. Now it was time to make a helicopter, so I could have all the same units as the first ToF game.
 
 ![Progress image](/assets/images/articles/tof-devlog-1/progress_006.png "Progress image")
+
+I have added an HDR skybox instead of procedural one, it helped balance the light colour a bit.
 
 ![Progress image](/assets/images/articles/tof-devlog-1/progress_007.png "Progress image")
 
