@@ -48,7 +48,6 @@ Stream bot commands
 - !rezim
 - !scatman
 - !spok
-- !spok
 - !szatan
 - !szypko
 - !turbo
