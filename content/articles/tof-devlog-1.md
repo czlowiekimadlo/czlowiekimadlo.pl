@@ -7,6 +7,8 @@ ToF 3D Devlog #1: The beginnings
 
 It's that time again, where I become motivated and inspired to do some gamedev of my own, as opposed to just playing games. That happens to me sometimes, and then I create titles like [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom) and [Rat is fat](https://w84death.itch.io/rat-is-fat) and [SNAFU](https://gotm.io/p1x-in/snafu). There were also other gamejam games, but nothing really came out of that. I guess I might write separate post about my other games if there will be interest.
 
+![Example of a match in ToF, with tanks and infantry fighting in a town](/assets/images/articles/tof-devlog-1/tof_gameplay.png "ToF gameplay example")
+
 But this post is about a new project! _Tanks of Freedom_ is a game I made together with my friends as P1X team. It is a simple, 2D, turn-based strategy, where two players fight each other with Infantry, Tanks and Helicopters. Decently-long campaign, some rudimentary online multiplayer and map editor made it somewhat popular, and it has a lot of potential. Unfortunatelly, it being our very first project ever made in Godot Engine, code isn't exactly "clean". It started on engine version 1.0 and went through upgrades to 1.1, 2.0 and 2.1. Right now the latest version it works with appears to be 2.1.6, but that is as far as it goes. Old Godot version caused some issues on Android, messy code made it difficult both to develop the game further, and to port it to version 3.x. There are some community initiatives to do this, but results so far are limited at best. It took about 3 years of not-very-intensive development to make the game in the first place, so there simply wasn't any willpower to go on with it anymore. Wermooz wasn't very interested in the last stages, as I tried to carry this project on my own. w84death moved on to tinker with other stuff, as he often does.
 
 With this short summary on where we are with ToF, let us see what I'm working on now. As I mentioned, game has a lot of potential, but it's just not feasible to work with it anymore - at least for me. The biggest issues are:
@@ -14,8 +16,6 @@ With this short summary on where we are with ToF, let us see what I'm working on
 - 2D pixel art is hard, and I can't do this on my own
 - code is a mess, it would take way too much time to clean up
 - old Godot version is not cutting it anymore
-
-![Example of a match in ToF, with tanks and infantry fighting in a town](/assets/images/articles/tof-devlog-1/tof_gameplay.png "ToF gameplay example")
 
 So because of this, I decided it was time to start anew. Godot Engine 3.2.3 is the current version at the time of writing, and I'm using it. It was important to upgrade it, as I decided to move the game to 3D to make it more modern and attractive. It should also help with migration to version 4.0 and Vulkan renderer when the time comes.
 
