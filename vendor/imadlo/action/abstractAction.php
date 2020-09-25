@@ -26,7 +26,7 @@ abstract class abstractAction
 
     protected function cleanSlug($route)
     {
-        return preg_replace("/[^a-z_0-9]/", "", $route);
+        return preg_replace("/[^a-z_0-9-]/", "", $route);
     }
 
     protected function generateError($httpCode)
