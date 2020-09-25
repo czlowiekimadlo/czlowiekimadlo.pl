@@ -51,9 +51,11 @@ Not a bad start, but colors were way off. I started working with environment, li
 
 ![Progress image](/assets/images/articles/tof-devlog-1/progress_002.png "Progress image")
 
-This looks more like it, though green is a bit strong. It will stay like that for a while. I had a good and long look at my poor attempt at a tank and a soldier vs. magicka stock asset characters, and some tanks from examples I found. So I started working on that, and made them a bit better. These will do for now.
+This looks more like it, though green is a bit strong. It will stay like that for a while. I had a good and long look at my poor attempt at a tank and a soldier vs. magica stock asset characters, and some tanks from examples I found. So I started working on that, and made them a bit better. These will do for now.
 
 ![Progress image](/assets/images/articles/tof-devlog-1/progress_003.png "Progress image")
+
+I have added an HDR skybox instead of procedural one, it helped balance the light colour a bit.
 
 ![Progress image](/assets/images/articles/tof-devlog-1/progress_004.png "Progress image")
 
