@@ -1,0 +1,14 @@
+#homepage_body {
+    padding: 30px 0;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+#column_container {
+    width: 600px;
+    margin: auto;
+}
+
+#homepage_body img {
+    margin-top: 190px;
+}
