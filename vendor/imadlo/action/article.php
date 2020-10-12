@@ -19,6 +19,7 @@ class ArticleAction extends abstractAction
             "TITLE" => $article[Content::TITLE],
             "CONTENT" => $formattedContent,
         ]);
+        $blocks["FOOTER"] = $this->render("article/footer.fragment");
 
         $content = $this->render("base.html", $blocks);
 

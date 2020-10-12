@@ -11,6 +11,15 @@
     margin: auto;
 }
 
+#footer_logo {
+    width: 100px;
+    margin: auto;
+}
+
+#footer_logo img {
+    margin-bottom: 50px;
+}
+
 h1, h2, h3 {
     font-family: Helvetica, Arial, sans-serif;
 }
