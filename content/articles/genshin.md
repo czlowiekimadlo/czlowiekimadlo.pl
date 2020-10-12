@@ -1,9 +1,9 @@
 Game experience: Genshin Impact
 
 # Game experience: Genshin Impact
-*06/10/2020*
+*12/10/2020*
 
-![Lorem Ipsum](/assets/images/articles/journey/journey.jpg "Lorem Ipsum")
+![Player character running towards a cliff with a view of the game world.](/assets/images/articles/genshin/genshin2.png "Running towards adventure!")
 
 Recently I've been playing some of the new F2P sensation, that is Genshin Impact. Game hyped mostly on its similarity to Breath of The Wild. After spending some hours with it, I like it, but not as much as I could or would like to.
 
@@ -11,9 +11,13 @@ GI tells a story of a Traveller, who journeys with its sibling through worlds. I
 
 Gameplay-wise Genshin Impact is an action game, focused mostly on melee combat and elemental magic combos. Player controls a party of four characters (though there are many more available) and will switch them to fit the current needs. Each character carries a specific type of weapon - a one-handed sword, a claymore, a bow, etc. - and can also equip five artefacts. These items help inflate their stats and provide some additional, specific effects. However, they do not change how a particular character plays, which is a shame, as it makes customisation options limited. It also means, that most of the setup lays in the selection of characters in the party, and makes aquiring new characters the most important thing above all other.
 
+![Fishl fighting some enemies.](/assets/images/articles/genshin/genshin5.png "Take that!")
+
 Aquiring new items is a mixed bag. Artifacts drop plentiful from chests, dungeons and some enemies. Weapons drop as well, but only the lower-level ones. Once I reached some higher-level areas, better weapons started dropping, so this improves as well, but only to an extent. Each item has a star rating, ranging from one to five, one being most common and five being legendary. Two-star drops are the most common after the initial, tutorial parts. Three-star items drops are not plentiful, but still decent. Four-stars are rare, being rewards for some story dungeons, big quests and crafting. Five-star items... exist. But I will talk about these later.
 
 Story is not bad, but a bit run-of-the-mill. There is a dragon, noble knights, politics. And some side-quests, but ultimately not that many. It works as a background to the main gameplay loop. The first nation encountered is knight-themed. To the west, there is an east-asian themed one. There are also characters from a third one, which seems a bit cloak-and-dagger, but I haven't seen enough of them just yet. Overall, it works, but it's nothing original so far.
+
+![Fishl jumping from a wall overlooking a city.](/assets/images/articles/genshin/genshin1.png "Off we go!")
 
 Exploration in Genshin Impact is excellent. Open world is vast, filled with monster camps, riddles and chests to find. Climbing and gliding mechanics blatanly ripped-off from BOTW make it very similar to the exploration of that game. BOTWs great design has been copied well and works here. Considering Zelda is limited to Nintendo Switch, having a very similar game on other platforms is actually nice. Similarity is not only in exploration mechanics, but also in graphical designs and estetics, resulting in a very pleasant presentation, though, again, feeling a bit copied. Thanks to all this, exploration is what you will be doing the most, at least in the beggining, until the whole map is explored. GI is worth playing for this itself, as you can spend many hours searching all nooks and crannies, and it stays fresh for a long time. If only this exploration was more rewarding, as, for the most part, drops from chests and monsters is underwhelming to say the least.
 
@@ -21,10 +25,14 @@ I have already mentioned, that the game looks very similar to BoTW in style, wor
 
 Not all is so positive in Genshin Impact though. We have to remember, that it is a free to play, gatcha game after all. And it shows. Almost every system in the game is more complicated, than it could be. We have an adventurer level, which is like the level of the account. Each character has it's own level. And ascencion rank. And talent levels. Each of these things require different, sometimes impossible to find, items to level up. Same goes for weapons, which have enchancement level, ascencion level and refinement rank. All of this on top of star rating. Fully upgrading a character or weapon requires huge amounts of in-game currency, special items and duplicates of same character/weapon. All standard things, often found in f2p games.
 
+![Characters and weapons bundle.](/assets/images/articles/genshin/genshin3.png "Loot boxes")
+
 As per usual, loot boxes, called wishes, are your only way of getting many characters and weapons. During the first two days of play, there are actually quite a lot of them given to the player, with some nice starter "deals" as well. But after that, the amount of free stuff falls off very quickly. You can still earn premium currency from chests, dungeons, bosses and daily quests, but it is a slow trickle. And you need to use these lootboxes in order to get character duplicates, so you can expand their constellatins, which are simple talent trees. No other way to do this. It is basically the same for items, as getting four-star items from normal gameplay takes AGES. And, I think, some are only available from wishes, though I might have just not discovered them in gameplay yet.
 
 Now, remember those five-star items I mentioned? There are, of course, five-star characters as well. These are the very best, and having those will make the gameplay much easier. And, of course, these are only available from wishes. No other way to get them. Nope. You will get a handful of characters and items from just playing the game, but these will be few, and they are relatively weak when compared to characters from wishes, even though they have the same star rating. The initial feed of wishes will net you a couple of good characters, but make no mistake. Getting the very best ones, or leveling up the ones you have got, will cost you hundreds of dollars. Or months of grinding. Fully leveling up a five-star character would take years. Or thousands of dollars. Not kidding.
 
 The upside is, that, so far, the single-player story does not require you to have a bunch of powerful characters. You can finish it using any of them. Beside Amber, she is thrash, sorry. Endgame, however, where you go through ever increasing in difficulty challanges, absolutely requires best of the best. I guess this is where the fun ends for those, who do not want to spend the money.
+
+![Premium currency bundles.](/assets/images/articles/genshin/genshin4.png "Premium currency bundles")
 
 All of this is a shame, because there is a good game in Genshin Impact, hidden under a pile of garbage that is f2p. If this has been a standard, $60 game, with less overcomplication, characters and items aquired through gameplay, and some cosmetic and story DLC sprinkled on top for monetisation, it would have been highly praised and rated game. It will still recieve a lot of praise and good reviews. But it will not be the great, fondly remembered game it could have been.
