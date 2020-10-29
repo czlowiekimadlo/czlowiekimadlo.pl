@@ -14,7 +14,23 @@ Stream bot commands
 - !polowanie [bet amount]
 - !interceptor - costs 5000
 
-## Audio commands
+## Audio Commands
+
+Newly added sounds:
+- !dawajkase
+- !niemaszprawa
+- !tusieplaci
+- !pienionzek
+- !swiatzbrodni
+- !tatatam
+- !dobrepytanie
+- !prawda
+- !koko
+- !gniew
+- !bronic
+- !moneta
+
+
 - !alko
 - !bomba
 - !bum
