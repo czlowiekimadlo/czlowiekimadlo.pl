@@ -117,3 +117,5 @@ Overall, not a bad look for about of week of work, that brought most of these as
 So this is it for now. I will try to continue to work at this pace, but I shall see if my inner laziness will not stop me again. I have a nice Trello board for this, so at least there is a plan in place. I am also tempted to do a video devlog on youtube, but I don't think I want to spend time on producing videos, as I can work on a game instead. Also, I don't have good enough camera for now.
 
 Well, see you in the next devlog, whenever that happens!
+
+[Read part 2 of the devlog](/tof-devlog-2)

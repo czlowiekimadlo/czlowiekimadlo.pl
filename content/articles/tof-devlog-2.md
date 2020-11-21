@@ -90,3 +90,6 @@ Just for comparison, here is the same map, but with the same camera, as all prev
 I'm thinking about implementing a couple of different camera modes to be available to the player, so they can choose their own style. It might proove to be a bit of a challange in the future, but It will be worth it.
 
 Next time, I will be implementing some actual functionalities. Currently, I'm still deciding if I want to make some map editor, so I can create maps to create gameplay on, or start working on gameplay first.
+
+[Read part 1 of the devlog](/tof-devlog-1)
+[Read part 3 of the devlog](/tof-devlog-3)
