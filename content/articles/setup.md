@@ -6,7 +6,7 @@ Streaming Setup
 
 - **CPU:** Intel Core i9-9900K
 - **RAM:** G.SKILL 2x16GB 3600MHz CL16 TridentZ RGB Neo
-- **GPU:** Zotac GeForce GTX1080 Ti Mini
+- **GPU:** Gigabyte GeForce RTX 3080 Gaming OC
 - **MB:** Gigabyte Z390 AORUS MASTER
 - **SCR:** LG 27GL850, DELL U2414H
 - **SSD:** Samsung 512GB+1TB M.2 NVME 970 Pro
@@ -27,7 +27,7 @@ Streaming Setup
 
 - **CPU:** Intel Core i7-4790 3.60GHz 8MB
 - **RAM:** Kingston 4x4GB HyperX Fury Black
-- **GPU:** Integrated Intel
+- **GPU:** Asus GeForce GTX 1070 Dual
 - **MB:** ASUS Z97-K
 - **SSD:** Samsung 128GB 2,5" 840 Pro
 - **SCR:** DELL U2414H
