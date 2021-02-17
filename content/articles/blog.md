@@ -1,5 +1,9 @@
 Blog
 
+# 2021
+
+- 17. II [Game experience: Cyberpunk 2077](/cp2077)
+
 # 2020
 
 - 21. XI [ToF 3D Devlog #3: Building an editor](/tof-devlog-3)
