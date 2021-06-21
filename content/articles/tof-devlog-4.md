@@ -179,5 +179,9 @@ All buildings are ready, and present nicely in that set screenshot.
 
 ![Progress image](/assets/images/articles/tof-devlog-4/progress_091.png "Progress image")
 
+That was a lot of very good progress, and I am motivated to go on. Trello board looks a bit intimidating, but I believe, step by step, I can do it.
+
+I have looked at my commit history on Github and could not believe that ToF repository is 2 years old! Serious work started about a year ago. I guess I have to focus more.
+
 
 [Read part 3 of the devlog](/tof-devlog-3)
