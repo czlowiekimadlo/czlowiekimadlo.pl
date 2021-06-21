@@ -124,3 +124,4 @@ I have re-used the minimap from the save/load menu, to make it easier to work on
 And now I truly am ready to start working on gameplay. I actually did already! But I'm saving this part for another devlog. It's christmas next month, so development might get a bit slow. See you next time!
 
 [Read part 2 of the devlog](/tof-devlog-2)
+[Read part 4 of the devlog](/tof-devlog-4)

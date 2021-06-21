@@ -2,6 +2,7 @@ Blog
 
 # 2021
 
+- 21. VI [ToF 3D Devlog #4: So much progress](/tof-devlog-4)
 - 05. III [Game experience: Valheim Early Access](/valheim)
 - 17. II [Game experience: Cyberpunk 2077](/cp2077)
 
