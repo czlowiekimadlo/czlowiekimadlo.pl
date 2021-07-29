@@ -23,7 +23,7 @@ You may also notice, that there is a box selector now, which shows tile being ed
 
 ![Progress image](/assets/images/articles/tof-devlog-3/progress_038.png "Progress image")
 
-I kept working on the UI and created the D-pad tile selector, which allows me to cycle through tiles and choose which one to use. Tiles are separated into groups, such us ground, nagure, city, buildings, units, etc.
+I kept working on the UI and created the D-pad tile selector, which allows me to cycle through tiles and choose which one to use. Tiles are separated into groups, such us ground, nature, city, buildings, units, etc.
 
 Each tile is being placed on a proper layer depending on its type, and some types overwrite each other, so you can't have a forest and a scyscraper on the same tile.
 
