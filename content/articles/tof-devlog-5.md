@@ -121,3 +121,4 @@ There are a couple more changes implemented, like unit stats view, so that playe
 That is it for now. I have motivation, energy and a list of tasks, so, hopefully, next devlog is not going to take me months to make!
 
 [Read part 4 of the devlog](/tof-devlog-4)
+[Read part 5.5 of the devlog](/tof-devlog-5-5)
