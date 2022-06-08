@@ -50,3 +50,4 @@ Building campaigns is going to take time, and there isn't going to be much to sh
 Current world events are making me a bit stressed and anxious, which is messing me up a bit. But there is work that needs to be done. So I'll be fine. I didn't want the second game to be as political as the first one, but now I am considering doing some of that content, probably as a DLC campaign. And this time it would not be as mild as the first one, since all bets are off. No promises though, because making maps and stories and dialogues is draining for me.
 
 [Read part 5 of the devlog](/tof-devlog-5)
+[Read part 6 of the devlog](/tof-devlog-6)
