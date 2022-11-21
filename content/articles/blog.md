@@ -2,6 +2,7 @@ Blog
 
 # 2022
 
+- 21. XI [ToF 3D Devlog #7: Working in the background](/tof-devlog-7)
 - 8. VI [ToF 3D Devlog #6: Got results!](/tof-devlog-6)
 - 18. III [ToF 3D Devlog #5.5: The not shiny one](/tof-devlog-5-5)
 - 02. II [ToF 3D Devlog #5: Hibernation](/tof-devlog-5)

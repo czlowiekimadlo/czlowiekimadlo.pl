@@ -102,3 +102,4 @@ With all of that work done I have managed to do one more thing before the lazy g
 And that is it! For now. I'm spending some time playing games, but I can feel the itch for development will return soon. I'm still considering if I should do some more features, like save/autosave, or should I move to the second campaign. We will see.
 
 [Read part 5.5 of the devlog](/tof-devlog-5-5)
+[Read part 7 of the devlog](/tof-devlog-7)
