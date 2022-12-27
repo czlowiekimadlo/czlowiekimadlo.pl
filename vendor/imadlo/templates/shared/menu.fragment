@@ -7,5 +7,6 @@
     </div>
     <div id="buttons">
         <a href="https://twitter.com/czlowiekimadlo"><img src="/assets/images/homepage/twitter.svg" /></a>
+        <a href="/rss"><img src="/assets/images/homepage/feed.png" /></a>
     </div>
 </div>
