@@ -1,0 +1,85 @@
+{
+    "title": "Człowiekimadło",
+    "link": "https://czlowiekimadlo.pl",
+    "description": "Personal blog",
+    "items": [
+        {
+            "title": "ToF 3D Devlog #7: Working in the background",
+            "link": "/tof-devlog-7",
+            "date": "2022/11/21",
+            "description": "Tanks of Freedom 2 devlog #7."
+        },
+        {
+            "title": "ToF 3D Devlog #6: Got results!",
+            "link": "/tof-devlog-6",
+            "date": "2022/6/8",
+            "description": "Tanks of Freedom 2 devlog #6."
+        },
+        {
+            "title": "ToF 3D Devlog #5.5: The not shiny one",
+            "link": "/tof-devlog-5-5",
+            "date": "2022/3/18",
+            "description": "Tanks of Freedom 2 devlog #5.5."
+        },
+        {
+            "title": "ToF 3D Devlog #5: Hibernation",
+            "link": "/tof-devlog-5",
+            "date": "2022/2/2",
+            "description": "Tanks of Freedom 2 devlog #5."
+        },
+        {
+            "title": "ToF 3D Devlog #4: So much progress",
+            "link": "/tof-devlog-4",
+            "date": "2021/6/21",
+            "description": "Tanks of Freedom 2 devlog #4."
+        },
+        {
+            "title": "Game experience: Valheim Early Access",
+            "link": "/valheim",
+            "date": "2021/3/5",
+            "description": "My experience playing Valheim."
+        },
+        {
+            "title": "Game experience: Cyberpunk 2077",
+            "link": "/cp2077",
+            "date": "2021/2/17",
+            "description": "My experience playing Cyberpunk 2077."
+        },
+        {
+            "title": "ToF 3D Devlog #3: Building an editor",
+            "link": "/tof-devlog-3",
+            "date": "2020/11/21",
+            "description": "Tanks of Freedom 2 devlog #3."
+        },
+        {
+            "title": "ToF 3D Devlog #2: Pixels re-imagined",
+            "link": "/tof-devlog-2",
+            "date": "2020/10/29",
+            "description": "Tanks of Freedom 2 devlog #2."
+        },
+        {
+            "title": "Game experience: Genshin Impact",
+            "link": "/genshin",
+            "date": "2020/10/12",
+            "description": "My experience playing Genshin Impact."
+        },
+        {
+            "title": "ToF 3D Devlog #1: The beginnings",
+            "link": "/tof-devlog-1",
+            "date": "2020/9/25",
+            "description": "Tanks of Freedom 2 devlog #1."
+        },
+        {
+            "title": "The Lost Joy Of Gaming",
+            "link": "/joy",
+            "date": "2020/8/20",
+            "description": "Man ranting about games."
+        },
+        {
+            "title": "Game experience: Journey",
+            "link": "/journey",
+            "date": "2020/7/7",
+            "description": "My experience playing Journey."
+        }
+    ]
+}
