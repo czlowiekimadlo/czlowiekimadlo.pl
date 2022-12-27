@@ -28,10 +28,13 @@ class RssAction extends abstractAction
 
             $items = "";
             foreach ($feed['items'] as $item) {
+                $date = new DateTime($item['date']);
+
                 $items .= $this->render("rss/item.xml", [
                     "TITLE" => $item["title"],
                     "LINK" => $feed["link"] . $item["link"],
                     "GUID" => $item["link"],
+                    "DATE" => $date->format("D, d M Y H:i:s O"),
                     "DESCRIPTION" => $item["description"]
                 ]);
             }
