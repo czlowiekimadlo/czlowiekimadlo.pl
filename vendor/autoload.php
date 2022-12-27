@@ -12,5 +12,6 @@ require_once __DIR__ . '/imadlo/action/abstractAction.php';
 require_once __DIR__ . '/imadlo/action/homepage.php';
 require_once __DIR__ . '/imadlo/action/error.php';
 require_once __DIR__ . '/imadlo/action/article.php';
+require_once __DIR__ . '/imadlo/action/rss.php';
 
 $bag = new Bag();

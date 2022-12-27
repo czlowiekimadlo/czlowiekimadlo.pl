@@ -27,6 +27,10 @@ class Router {
             return $this->bag->homepageAction;
         }
 
+        if ($route === "/rss") {
+            return $this->bag->rssAction;
+        }
+
         return $this->bag->articleAction;
     }
 }

@@ -12,6 +12,7 @@ class Bag {
     public $errorAction;
     public $homepageAction;
     public $articleAction;
+    public $rssAction;
 
     public function __construct()
     {
@@ -25,5 +26,6 @@ class Bag {
         $this->errorAction = new ErrorAction($this);
         $this->homepageAction = new HomepageAction($this);
         $this->articleAction = new ArticleAction($this);
+        $this->rssAction = new RssAction($this);
     }
 }

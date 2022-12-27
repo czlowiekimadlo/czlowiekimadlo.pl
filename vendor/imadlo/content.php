@@ -33,6 +33,17 @@ class Content {
         ];
     }
 
+    public function getGeneralContentRaw($file)
+    {
+        $filename = "../content/$file";
+
+        if (file_exists($filename)) {
+            return file_get_contents($filename);
+        }
+
+        return false;
+    }
+
     private function getFileBySlug($slug)
     {
         return $this->getGeneralFileBySlug("articles/" . $slug);
@@ -40,12 +51,8 @@ class Content {
 
     private function getGeneralFileBySlug($slug)
     {
-        $filename = "../content/$slug.md";
+        $filename = "$slug.md";
 
-        if (file_exists($filename)) {
-            return file_get_contents($filename);
-        }
-
-        return false;
+        return $this->getGeneralContentRaw($filename);
     }
 }
