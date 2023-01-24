@@ -79,3 +79,4 @@ There was an attempt to optimise 3D models further, since I have been informed a
 I have already started working on next features, and then I'll focus on Jade Twilight campaign. See you when it's finished!
 
 [Read part 6 of the devlog](/tof-devlog-6)
+[Read part 8 of the devlog](/tof-devlog-8)

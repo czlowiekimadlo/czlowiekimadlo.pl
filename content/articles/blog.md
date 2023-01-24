@@ -1,5 +1,9 @@
 Blog
 
+# 2023
+
+- 24. I [ToF 3D Devlog #8: Features all around](/tof-devlog-8)
+
 # 2022
 
 - 21. XI [ToF 3D Devlog #7: Working in the background](/tof-devlog-7)
