@@ -4,6 +4,12 @@
     "description": "Personal blog",
     "items": [
         {
+            "title": "Game experience: Vampire Survivors",
+            "link": "/vampire-survivors",
+            "date": "2023/03/10",
+            "description": "My experience playing Vampire Survivors."
+        },
+        {
             "title": "ToF 3D Devlog #8: Features all around",
             "link": "/tof-devlog-8",
             "date": "2023/01/24",

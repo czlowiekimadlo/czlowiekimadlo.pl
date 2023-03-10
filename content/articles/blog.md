@@ -2,6 +2,7 @@ Blog
 
 # 2023
 
+- 10. III [Game experience: Vampire Survivors](/vampire-survivors)
 - 24. I [ToF 3D Devlog #8: Features all around](/tof-devlog-8)
 
 # 2022
