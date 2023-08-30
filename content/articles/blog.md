@@ -2,7 +2,6 @@ Blog
 
 # 2023
 
-
 - 29. VIII [ToF 3D Devlog #9: Content complete! (Almost)](/tof-devlog-9)
 - 10. III [Game experience: Vampire Survivors](/vampire-survivors)
 - 24. I [ToF 3D Devlog #8: Features all around](/tof-devlog-8)
