@@ -157,3 +157,4 @@ And this is it for today. Overall, I'm very proud with the amount of stuff I man
 The Trello board looks less intimidating with every task I finish. I think I'll take a very short break and get back to work!
 
 [Read part 7 of the devlog](/tof-devlog-7)
+[Read part 9 of the devlog](/tof-devlog-9)
