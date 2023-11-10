@@ -2,8 +2,9 @@
     <div id="menu">
         <span><a href="/">czlowiekimadlo</a></span>
         <a href="https://www.twitch.tv/czlowiekimadlo">live</a>
-        <a href="/blog">Blog</a>
+        <a href="/blog">blog</a>
         <a href="/setup">setup</a>
+        <a href="https://czlowiekimadlo.itch.io/">games</a>
     </div>
     <div id="buttons">
         <a href="https://twitter.com/czlowiekimadlo"><img src="/assets/images/homepage/twitter.svg" /></a>
