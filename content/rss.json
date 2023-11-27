@@ -4,6 +4,18 @@
     "description": "Personal blog",
     "items": [
         {
+            "title": "ToF 3D Devlog #10: Godot upgrade and Multiplayer",
+            "link": "/tof-devlog-10",
+            "date": "2023/11/27",
+            "description": "Tanks of Freedom 2 devlog #10."
+        },
+        {
+            "title": "ToF 3D Devlog #9: Content complete! (Almost)",
+            "link": "/tof-devlog-9",
+            "date": "2023/08/29",
+            "description": "Tanks of Freedom 2 devlog #9."
+        },
+        {
             "title": "Game experience: Vampire Survivors",
             "link": "/vampire-survivors",
             "date": "2023/03/10",
