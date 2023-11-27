@@ -90,3 +90,4 @@ I think I might try to hire someone to review the mission content I have created
 See you in the next one!
 
 [Read part 8 of the devlog](/tof-devlog-8)
+[Read part 10 of the devlog](/tof-devlog-10)
