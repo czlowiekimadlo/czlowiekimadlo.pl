@@ -161,3 +161,4 @@ There were other small changes and some bug fixes that I missed in this post - b
 There are still things in the backlog that I want to add to the game, and a list of smaller fixes and improvements is growing as I test the game and get feedback. Still plenty to do!
 
 [Read part 9 of the devlog](/tof-devlog-9)
+[Read part 11 of the devlog](/tof-devlog-11)

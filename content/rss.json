@@ -4,6 +4,12 @@
     "description": "Personal blog",
     "items": [
         {
+            "title": "ToF II Devlog #11: Going back Online",
+            "link": "/tof-devlog-11",
+            "date": "2024/02/02",
+            "description": "Tanks of Freedom 2 devlog #11."
+        },
+        {
             "title": "ToF 3D Devlog #10: Godot upgrade and Multiplayer",
             "link": "/tof-devlog-10",
             "date": "2023/11/27",
