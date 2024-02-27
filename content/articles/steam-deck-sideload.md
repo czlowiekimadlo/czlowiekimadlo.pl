@@ -9,7 +9,7 @@ Recently it came to my attention, that it is not obvious to people how to sidelo
 
 ## Some pre-requisites
 
-While not strictly required, I would highly advise to get some mouse and keyboard connected to your Steam Deck for this process. Be it either wireless, or wired via USB-C adapter. While it is possible to use this using native input only, it's going to be much harder.
+While not strictly required, I would highly advise to get some mouse and keyboard connected to your Steam Deck for this process. Be it either wireless, or wired via USB-C adapter. While it is possible to do this using native input only, it's going to be much harder.
 
 ## How to sideload a game?
 
