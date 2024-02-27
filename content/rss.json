@@ -4,6 +4,12 @@
     "description": "Personal blog",
     "items": [
         {
+            "title": "ToF II: Steam Deck sideloading guide",
+            "link": "/steam-deck-sideload",
+            "date": "2024/02/27",
+            "description": "Tanks of Freedom II Steam Deck sideloading guide."
+        },
+        {
             "title": "ToF II Devlog #11: Going back Online",
             "link": "/tof-devlog-11",
             "date": "2024/02/02",
