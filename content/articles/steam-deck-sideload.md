@@ -64,6 +64,17 @@ Now that we have the game added, we can play it, but it does not look the best i
 
 ![Progress image](/assets/images/articles/steam-deck-sideload/step11.png "Progress image")
 
+## Optimised game settings
+
+Upon first start, game should detect it is being run on the Steam Deck, and modify the settings accordingly. But this might not work, so if that is the case, here are recommended settings for the game, so that it does not stutter and not eat your battery (unless you want it to):
+
+- Enable Fullscreen
+- Disable all shadows (including decorative)
+- Disable MSAA
+- Disable FXAA
+- Disable V-sync
+- Set FPS and input FPS to 60 (or 90 for Deck OLED, though I have not tested this)
+
 ## Finishing thoughts
 
 Hopefully, once the game is finished, I'll publish it on Steam myself, so that none of this is needed.
