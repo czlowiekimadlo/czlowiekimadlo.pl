@@ -4,6 +4,12 @@
     "description": "Personal blog",
     "items": [
         {
+            "title": "ToF II Devlog #12: More Skirmish content",
+            "link": "/tof-devlog-12",
+            "date": "2024/05/21",
+            "description": "Tanks of Freedom 2 devlog #12."
+        },
+        {
             "title": "ToF II: Steam Deck sideloading guide",
             "link": "/steam-deck-sideload",
             "date": "2024/02/27",

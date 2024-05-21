@@ -77,3 +77,4 @@ I have also added a few new tiles dedicated to building railway bridges, and a n
 This is all I had for version 0.6.0, which is now available on itch. There is also a new post: [https://czlowiekimadlo.itch.io/tanks-of-freedom-ii/devlog/675546/version-060-is-out](https://czlowiekimadlo.itch.io/tanks-of-freedom-ii/devlog/675546/version-060-is-out)
 
 [Read part 10 of the devlog](/tof-devlog-10)
+[Read part 12 of the devlog](/tof-devlog-12)
