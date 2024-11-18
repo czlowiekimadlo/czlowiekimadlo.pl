@@ -2,6 +2,7 @@ Blog
 
 # 2024
 
+- 18. XI [ToF II Devlog #13: Full Steam ahead!](/tof-devlog-13)
 - 21. V [ToF II Devlog #12: More Skirmish content](/tof-devlog-12)
 - 27. II [ToF II: Steam Deck sideloading guide](/steam-deck-sideload)
 - 02. II [ToF II Devlog #11: Going back Online](/tof-devlog-11)

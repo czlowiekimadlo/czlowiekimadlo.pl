@@ -92,3 +92,4 @@ There were also some balancing changes and a few much needed bugfixes. This vers
 And for those interested in the list of released changes there is also a new post: [https://czlowiekimadlo.itch.io/tanks-of-freedom-ii/devlog/734112/version-070-is-out](https://czlowiekimadlo.itch.io/tanks-of-freedom-ii/devlog/734112/version-070-is-out)
 
 [Read part 11 of the devlog](/tof-devlog-11)
+[Read part 13 of the devlog](/tof-devlog-13)
