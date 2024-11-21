@@ -1,5 +1,6 @@
 html {
-    background: url(/assets/images/homepage/ships.jpg) no-repeat center center fixed;
+    /*background: url(/assets/images/homepage/ships.jpg) no-repeat center center fixed;*/
+    background: url(/assets/images/homepage/tanks.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -41,7 +42,7 @@ body {
 #header {
     padding: 15px;
     margin: 0;
-    background: linear-gradient(to bottom, rgba(0,0,0,0.55) 0%,rgba(0,0,0,0) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,0.5) 100%);
     /*font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;*/
     vertical-align: top;
     text-transform: uppercase;
@@ -50,19 +51,25 @@ body {
 #menu {
 }
 #menu span a {
+    /*color: #ffffff;*/
     color: #ffffff;
     font-size: 2em;
     margin: 10px 1em 0 1em;
 }
 
 #menu a, #buttons a {
-    color: #99aab5;
+    /*color: #99aab5;*/
+    color: #ffffff;
     margin: 0 1em;
     font-size: 1.3em;
     text-decoration: none;
 }
 #menu a:hover {
     text-decoration: underline;
+}
+#menu span a, #menu a, #buttons a {
+    -webkit-text-stroke: 1px #99aab5;
+    font-weight: bold;
 }
 #buttons {
     position: absolute;

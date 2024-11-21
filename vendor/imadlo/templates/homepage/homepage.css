@@ -5,7 +5,8 @@
 }
 
 #column_container {
-    width: 800px;
+    /*width: 800px;*/
+    width: 512px;
     margin: auto;
 }
 

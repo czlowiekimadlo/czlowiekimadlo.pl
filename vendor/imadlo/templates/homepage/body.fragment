@@ -1,5 +1,6 @@
 <div id="homepage_body">
     <div id="column_container" class="moz-reader-content">
-        <img src="/assets/images/homepage/logo_front.svg" width=800 />
+        <!--<img src="/assets/images/homepage/logo_front.svg" width=800 />-->
+        <img src="/assets/images/homepage/lapis_orb.png" width=512 />
     </div>
 </div>
