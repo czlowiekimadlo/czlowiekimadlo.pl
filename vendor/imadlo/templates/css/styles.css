@@ -36,7 +36,8 @@ body {
 }
 
 #header, #footer {
-    font-family: 'Eurostile', Arial, sans-serif;
+    /*font-family: 'Eurostile', Arial, sans-serif;*/
+    font-family: : Arial, sans-serif;
 }
 
 #header {
@@ -67,10 +68,12 @@ body {
 #menu a:hover {
     text-decoration: underline;
 }
+/*
 #menu span a, #menu a, #buttons a {
     -webkit-text-stroke: 1px #99aab5;
     font-weight: bold;
 }
+*/
 #buttons {
     position: absolute;
     right: 10px;
