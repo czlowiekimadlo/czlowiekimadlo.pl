@@ -4,6 +4,12 @@
     "description": "Personal blog",
     "items": [
         {
+            "title": "Retro: Reviving Amiga",
+            "link": "/amiga",
+            "date": "2025/10/21",
+            "description": "Rescuing my old Amiga computers"
+        },
+        {
             "title": "ToF II Devlog #13: Full Steam ahead!",
             "link": "/tof-devlog-13",
             "date": "2024/11/18",

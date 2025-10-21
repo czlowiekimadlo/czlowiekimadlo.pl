@@ -1,5 +1,9 @@
 Blog
 
+# 2025
+
+- 21. X [Retro: Reviving Amiga](/amiga)
+
 # 2024
 
 - 18. XI [ToF II Devlog #13: Full Steam ahead!](/tof-devlog-13)
