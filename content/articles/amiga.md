@@ -17,7 +17,7 @@ Let's start with the good stuff! My favourite Amiga 600 that I used most of my c
 
 The monitor is a Commodore 1802. I have cleaned it up as well, both in and out. Have not tried turning it on yet, as I don't know if it requires a recap or not. My layman inspection of caps tells me it's fine, but we will see. The flap on the bottom is missing in the photo, but I found it later and will re-attach it.
 
-[![Amiga 600 inside](/assets/images/articles/amiga/amiga2t.png "Amiga 600 interior")](/assets/images/articles/amiga/amiga2.jpg)
+[![Amiga 600 inside](/assets/images/articles/amiga/amiga2t.png "Amiga 600 interior")](/assets/images/articles/amiga/amiga2.png)
 
 This is the insides of the Amiga 600 before cleaning, with all stuff attached. The 1MB RAM extension is installed, as well as the floppy drive. In the middle is an accelerator card with Motorolla 68030 CPU (I think) hidden below the glued fan, some Fast RAM, and a co-processor.
 
