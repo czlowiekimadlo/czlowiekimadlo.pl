@@ -93,7 +93,7 @@ More Amiga magazine CDs, and half of the Aminet Set 2. A couple of burnt ones wi
 
 [![Old CDs](/assets/images/articles/amiga/amiga19t.jpg "Old CDs")](/assets/images/articles/amiga/amiga19.jpg)
 
-The other half of Aminet Set. The numbered ones are prived collections of files - no idea what's there.
+The other half of Aminet Set. The numbered ones are private collections of files - no idea what's there.
 
 [![Old floppies](/assets/images/articles/amiga/amiga20t.jpg "Old floppies")](/assets/images/articles/amiga/amiga20.jpg)
 
