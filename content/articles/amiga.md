@@ -3,7 +3,7 @@ Retro: Reviving Amiga
 # Retro: Reviving Amiga
 *21/10/2025*
 
-![Amiga logo.](/assets/images/articles/amiga/amilogot.jpeg "The ye old Commodore Amiga logo.")
+![Amiga logo.](/assets/images/articles/amiga/amilogot.jpg "The ye old Commodore Amiga logo.")
 
 Have you ever heard about old Amiga computers? They were pretty cool! And my brothers had two of those, which I later got from them.
 
