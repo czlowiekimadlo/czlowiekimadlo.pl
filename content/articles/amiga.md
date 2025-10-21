@@ -51,7 +51,7 @@ A look at the extended ports on the back of the PC case. It was also powered by 
 
 Here we can see some old, mostly broken extra pieces of hardware. Buttons on the mouse broke, then were hand-remade with keyboard switches, then broke again. It is possible that the electronics still work and could be used again, if the buttons are somehow fixed.
 
-there is also an old 2.5" 40MB hard drive attached to a frame. It used to be screwed to the back of the A600, but it is possible that the frame is an original used to fit it inside the computer. It has been moved to the back because space was needed for the accelerator. Later replaced with the 3.5" 300MB drive, it is possible that it works, but who knows. A custom 2.5"-to-3.5" IDE adapter is visible.
+There is also an old 2.5" 40MB hard drive attached to a frame. It used to be screwed to the back of the A600, but it is possible that the frame is an original used to fit it inside the computer. It has been moved to the back because space was needed for the accelerator. Later replaced with the 3.5" 300MB drive, it is possible that it works, but who knows. A custom 2.5"-to-3.5" IDE adapter is visible.
 
 [![Old broken hardware](/assets/images/articles/amiga/amiga10t.jpg "Old broken extra hardware")](/assets/images/articles/amiga/amiga10.jpg)
 
