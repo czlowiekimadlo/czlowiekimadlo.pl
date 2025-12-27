@@ -2,6 +2,7 @@ Blog
 
 # 2025
 
+- 22. XII [Retro: Reviving Amiga - Part 2](/amiga-2)
 - 21. X [Retro: Reviving Amiga](/amiga)
 
 # 2024

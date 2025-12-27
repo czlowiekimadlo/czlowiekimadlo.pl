@@ -122,3 +122,6 @@ And last but not least - polish edition of Legends of Valour for Amiga. It's alm
 All goodies are there, and in good condition - except for the heavily used map and the box itself.
 
 Hopefully my efforts to restore these computers result in me having two cool Amigas. I'll write another blog post once things move forward.
+
+
+[Read part 2](/amiga-2)

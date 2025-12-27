@@ -4,10 +4,16 @@
     "description": "Personal blog",
     "items": [
         {
+            "title": "Retro: Reviving Amiga - Part 2",
+            "link": "/amiga-2",
+            "date": "2025/12/22",
+            "description": "Putting together Amiga 1200."
+        },
+        {
             "title": "Retro: Reviving Amiga",
             "link": "/amiga",
             "date": "2025/10/21",
-            "description": "Rescuing my old Amiga computers"
+            "description": "Rescuing my old Amiga computers."
         },
         {
             "title": "ToF II Devlog #13: Full Steam ahead!",
